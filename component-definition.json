@@ -70,6 +70,17 @@
           }
         },
         {
+          "title": "Button",
+          "id": "button",
+          "plugins": {
+            "da": {
+              "name": "button",
+              "rows": 1,
+              "columns": 1
+            }
+          }
+        },
+        {
           "title": "Cards",
           "id": "cards",
           "plugins": {
