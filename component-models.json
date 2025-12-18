@@ -85,6 +85,14 @@
         "label": "Text",
         "valueType": "string",
         "required": true
+      },
+      {
+        "component": "richtext",
+        "name": "div:nth-child(3)",
+        "value": "",
+        "label": "Third Area - Maybe Button",
+        "valueType": "string",
+        "required": true
       }
     ]
   },
