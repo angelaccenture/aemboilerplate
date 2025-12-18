@@ -30,7 +30,7 @@
         {
           "component": "richtext",
           "valueType": "string",
-          "name": "div:nth-child(1)",
+          "name": "#second-element-goes-in-here",
           "value": "",
           "label": "Summary",
           "required": true
