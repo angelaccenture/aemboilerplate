@@ -333,8 +333,6 @@ function wrapTextNodes(block) {
 
   const wrap = (el) => {
     const wrapper = document.createElement('p');
-    wrapper.id = "testid";
-    console.log("adding id i think");
     wrapper.append(...el.childNodes);
     el.append(wrapper);
   };
