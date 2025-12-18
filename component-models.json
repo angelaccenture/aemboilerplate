@@ -26,16 +26,20 @@
       {
         "component": "select",
         "label": "Select",
-        "name": "select",
+        "name": "theme",
         "valueType": "string",
         "options": [
           {
-            "name": "Option 1",
-            "value": "option1"
+            "name": "Draft",
+            "value": "draft"
           },
           {
-            "name": "Option 2",
-            "value": "option2"
+            "name": "Review",
+            "value": "review"
+          },
+          {
+            "name": "Published",
+            "value": "published"
           }
         ]
       }
