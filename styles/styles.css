@@ -273,7 +273,7 @@ body.draft {
   background-color: lightyellow;
 
 }
-body.draft::after {
+body.draft::before {
 content: "DRAFT";
   
 }
