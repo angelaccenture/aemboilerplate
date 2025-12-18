@@ -269,11 +269,12 @@ main .section.angel {
   padding: 40px 0;
 }
 
-body.draft {
-  background-color: lightyellow;
-
-}
 body.draft::before {
-content: "DRAFT";
+    content: "DRAFT";
+    text-align: center;
+    display: block;
+    font-size: 48px;
+    font-weight: 800;
+    color: red;
   
 }
