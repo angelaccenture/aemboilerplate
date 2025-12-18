@@ -268,3 +268,12 @@ main .section.angel {
   margin: 0;
   padding: 40px 0;
 }
+
+body.draft {
+  background-color: lightyellow;
+
+}
+body.draft::after {
+content: "DRAFT";
+  
+}
